@@ -1,0 +1,45 @@
+//variables scss
+
+$background-color: #ffffff;
+$alt-background-color: #0a2d3e;
+$text-color: #000000;
+$accent-text-color: #cccc00;
+$alt-text-color: #808080;
+
+//fonts
+$font-content: 'Raleway', sans-serif;
+$font-interface: 'Libre Franklin', sans-serif;
+
+// Media queries breakpoints
+// --------------------------------------------------
+
+// Extra small screen
+$screen-xs-max:                  480px;
+
+// Small screen
+$screen-sm-max:                  600px;
+
+// Medium screen
+$screen-md-max:                  720px;
+
+// Large screen
+$screen-lg-max:                  960px;
+
+// So media queries don't overlap when required, provide a maximum
+$screen-sm-min:              ($screen-xs-max + 1);
+$screen-md-min:              ($screen-sm-max + 1);
+$screen-lg-min:              ($screen-md-max + 1);
+$screen-xl-min:              ($screen-lg-max + 1);
+
+
+//conditionals
+$mq-xsmall: "only screen and (max-width: #{$screen-xs-max})";
+$mq-small: "only screen and (min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max})";
+$mq-medium: "only screen and (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max})";
+$mq-large: "only screen and (min-width: #{$screen-lg-min}) and (max-width: #{$screen-lg-max})";
+$mq-xlarge: "only screen and (min-width: #{$screen-xl-min})";
+
+//combination conditionals
+$mq-medium-large: "only screen and (min-width: #{$screen-md-min}) and (max-width: #{$screen-lg-max})";
+$mq-xsmall-medium: "only screen and (max-width: #{$screen-md-max})";
+$mq-xsmall-small: "only screen and (max-width: #{$screen-sm-max})";
