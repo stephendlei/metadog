@@ -1,0 +1,23 @@
+**/*.map
+
+# Dependencies
+node_modules/*
+dist/*
+
+
+# OS or Editor folders
+._*
+.cache
+.DS_Store
+.idea
+.out
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-*
+.vscode
+nbproject
+Thumbs.db
+logs
+*.log
