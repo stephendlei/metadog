@@ -20,7 +20,7 @@ ol, ul { list-style: none; }
 
 body {
 	background: $background-color;
-	font-family: 'Raleway', sans-serif;
+	font-family: $font-content;
 	font-size: 16px;
 	margin: 0;
 	min-width: 320px;

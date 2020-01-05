@@ -5,6 +5,7 @@ var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 var browserSync = require('browser-sync').create();
+var include = require('gulp-file-include');
 var paths = {
   src: 'src/**/*',
   srcHTML: 'src/**/*.html',
@@ -37,10 +38,14 @@ gulp.task('js', function(){
         .pipe(gulp.dest('dist/js'));
 });
 
-// gulp.task('watch', function() {
-//     gulp.watch(paths.srcSCSS, sass);
-//     gulp.watch(paths.srcJS, js);
-// });
+gulp.task('file-include', function() {
+    return gulp.src(['index.html'])
+        .pipe(include({
+            prefix: '@@',
+            basepath: '@file'
+        }))
+    .pipe(gulp.dest('./'));
+});
 
 gulp.task('serve', gulp.series('sass', function() {
     

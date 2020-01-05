@@ -118,12 +118,11 @@
 
 //media query variable from _variables.scss
 @mixin mq($point) {
-	
 	@if $point == xsmall {
 		@media #{$mq-xsmall} { @content; }
 	}
 	@else if $point == small {
-		@media #{$mq-small} { @content; }
+		@media #{$mq-small}  { @content; }
 	}
 	@else if $point == medium {
 		@media #{$mq-medium}  { @content; }
@@ -134,13 +133,14 @@
 	@else if $point == xlarge {
 		@media #{$mq-xlarge}  { @content; }
 	}
-	@else if $point == medium-large {
-		@media #{$mq-medium-large}  { @content; }
+	@else if $point == small-only {
+		@media #{$mq-small} { @content; }
 	}
-	@else if $point == xsmall-medium {
-		@media #{$mq-xsmall-medium}  { @content; }
+	@else if $point == medium-only {
+		@media #{$mq-medium}  { @content; }
 	}
-	@else if $point == xsmall-small {
-		@media #{$mq-xsmall-small}  { @content; }
+	@else if $point == large-only {
+		@media #{$mq-large}  { @content; }
 	}
+	
 }
