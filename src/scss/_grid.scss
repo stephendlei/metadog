@@ -1,17 +1,16 @@
 
 .row {
-  box-sizing: border-box;
-  display: flex;
-  flex: 0 1 auto;
-  flex-direction: row;
-  flex-wrap: wrap;
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .column {
     flex-grow: 1;
     flex-basis: 0;
-    max-width: 100%;
-    padding: 0 0.5em;
+    max-width: 100%;    
 }
 
 .small-12 { flex-basis: 100%; max-width: 100%;}
@@ -58,15 +57,15 @@
 }
 
 .row.reverse {
-  flex-direction: row-reverse;
+    flex-direction: row-reverse;
 }
 
 .column.reverse {
-  flex-direction: column-reverse;
+    flex-direction: column-reverse;
 }
 
 .align-items-end {
-  align-items: flex-end;
+    align-items: flex-end;
 }
 
 
