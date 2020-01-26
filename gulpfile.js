@@ -6,6 +6,7 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 var browserSync = require('browser-sync').create();
 var include = require('gulp-file-include');
+var ghpages = require('gh-pages');
 var paths = {
   src: 'src/**/*',
   srcHTML: 'src/**/*.html',
@@ -39,24 +40,30 @@ gulp.task('js', function(){
 });
 
 gulp.task('file-include', function() {
-    return gulp.src(['index.html'])
+    return gulp.src(['./*.html'])
         .pipe(include({
             prefix: '@@',
             basepath: '@file'
         }))
-    .pipe(gulp.dest('./'));
+    .pipe(gulp.dest('dist'));
 });
 
 gulp.task('serve', gulp.series('sass', function() {
     
     browserSync.init({
-        server: "./"
+        server: "./dist"
     });
 
-    gulp.watch(paths.srcSCSS, gulp.series('sass',));
-    gulp.watch("./*.html").on('change', browserSync.reload);
+    gulp.watch(paths.srcSCSS, gulp.series('sass'));
+    gulp.watch("./dist/*.html").on('change', browserSync.reload);
    
 }));
+
+gulp.task('deploy', () => {
+    return ghpages.publish('dist', function(err) {});
+});
+
+gulp.teask('run', gulp.series('serve'));
 
 gulp.task('default', gulp.series('serve'));
 

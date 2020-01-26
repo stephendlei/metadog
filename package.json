@@ -18,6 +18,7 @@
   "homepage": "https://github.com/stephendlei/metadog#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7",
+    "gh-pages": "^2.2.0",
     "gulp": "^4.0.2",
     "gulp-file-include": "^2.1.1"
   },
