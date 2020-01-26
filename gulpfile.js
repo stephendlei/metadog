@@ -63,7 +63,7 @@ gulp.task('deploy', () => {
     return ghpages.publish('dist', function(err) {});
 });
 
-gulp.teask('run', gulp.series('serve'));
+gulp.task('run', gulp.series('serve'));
 
 gulp.task('default', gulp.series('serve'));
 
