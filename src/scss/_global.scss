@@ -28,9 +28,13 @@ section {
 	padding: 1em;
 }
 
+header, section {
+	max-width: $screen-lg-max;
+	margin: 0 auto;
+}
+
 .hero {
 	margin: 1em 0 4em;
-
 	
 	@include mq(xsmall) {
 		font-size: 0.75em;
