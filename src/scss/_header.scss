@@ -16,17 +16,21 @@ header {
     }
 
     nav {
+        margin: 0;
         @include mq(large) {
           margin-right: 0;
         }
 
         ul {
-            justify-content: center;
+            justify-content: flex-start;
             @include mq(large) {
                 justify-content: flex-end;
             }
             li {
                 color: $alt-text-color;
+                &:first-child {
+                    padding-left: 0;
+                }
             }
         }
     }
