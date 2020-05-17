@@ -25,7 +25,10 @@ $screen-sm-max:                  600px;
 $screen-md-max:                  720px;
 
 // Large screen
-$screen-lg-max:                  960px;
+$screen-lg-max:                  1024px;
+
+// X Large screen
+$screen-xl-max:                  1440px;
 
 // So media queries don't overlap when required, provide a maximum
 $screen-sm-min:              ($screen-xs-max + 1);

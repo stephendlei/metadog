@@ -1,11 +1,28 @@
 nav {
     font-family: $font-interface;
     font-weight: 500;
-    font-size: 1em;
+    font-size: 0.75em;
     max-width: 440px;
     margin: 0 auto;
     text-transform: uppercase;
+    @include mq(medium) {
+        font-size: 0.875em;
+    }
+    @at-root header & {
+        margin: 8px 0 0;
+        @include mq(large) {
+        margin: 0;
+        }
 
+        ul {
+            li {
+                color: $alt-text-color;
+                &:first-child {
+                    padding-left: 0;
+                }
+            }
+        }
+    }
     ul {
         display: flex;
         flex-wrap: nowrap;
@@ -14,17 +31,20 @@ nav {
         li {
             letter-spacing: 2px;
             color: $home-nav-text-color;
-            padding: 0 10px;
+            padding: 0 8px;
+            @include mq(medium) {
+                padding: 0 10px;
+            }
 
             #{$a-tags} {
-              color: inherit;
-              text-decoration: none;
+                color: inherit;
+                text-decoration: none;
             }
 
             #{$a-tags-hover},
             a.active {
-              color: #000000;
-              text-decoration: none;
+                color: #000000;
+                text-decoration: none;
             }
         }
     }

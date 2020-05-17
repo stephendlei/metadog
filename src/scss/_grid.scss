@@ -13,6 +13,10 @@
     max-width: 100%;    
 }
 
+.flex {
+    display: flex;
+}
+
 .small-12 { flex-basis: 100%; max-width: 100%;}
 .small-11 { flex-basis: 91.66666667%; max-width: 91.66666667%;}
 .small-10 { flex-basis: 83.33333333%; max-width: 83.33333333%;}
@@ -66,6 +70,14 @@
 
 .align-items-end {
     align-items: flex-end;
+}
+
+.justify-start {
+    justify-content: flex-start;
+}
+
+.justify-end {
+    justify-content: flex-end;
 }
 
 

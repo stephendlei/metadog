@@ -1,5 +1,5 @@
 header {
-    padding: 1.5em 1em;
+    padding: 2.5em 1em 1em;
 
     .logo {
         font-family: $font-interface;
@@ -15,23 +15,9 @@ header {
         }
     }
 
-    nav {
-        margin: 0;
+    .navigation {
         @include mq(large) {
-          margin-right: 0;
-        }
-
-        ul {
-            justify-content: flex-start;
-            @include mq(large) {
-                justify-content: flex-end;
-            }
-            li {
-                color: $alt-text-color;
-                &:first-child {
-                    padding-left: 0;
-                }
-            }
+            justify-content: flex-end;
         }
     }
 }
