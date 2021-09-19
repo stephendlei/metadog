@@ -1,0 +1,21 @@
+{
+    "work": [
+        {
+            "name": "port1",
+            "label": "Portfolio 1",
+            "alt": "port1 alt text",
+            "thumbnail": "FadingPortraitsCDCover.png",
+            "gallery": [
+                { "src": "", "alt": "" },
+                { "src": "", "alt": "" }
+            ]
+        },
+        {
+            "name": "port2",
+            "label": "Portfolio 2",
+            "alt": "port2 alt text",
+            "thumbnail": "FadingPortraitsCDCover.png",
+            "gallery": ["", ""]
+        }
+    ]
+}

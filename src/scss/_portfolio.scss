@@ -1,0 +1,16 @@
+.portfolio {
+    grid-template-columns: repeat(2, 1fr);
+    @include mq(large) {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    @include mq(xlarge) {
+        grid-template-columns: repeat(5, 1fr);
+    }
+    > a {
+        img {
+            display: block;
+            width: 100%;
+            max-width: 540px;
+        }
+    }
+}

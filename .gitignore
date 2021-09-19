@@ -21,3 +21,5 @@ nbproject
 Thumbs.db
 logs
 *.log
+dist/css/
+dist/js/
