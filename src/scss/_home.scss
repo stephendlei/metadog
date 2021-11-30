@@ -1,21 +1,26 @@
 .splash-image {
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: 100%;
-	max-width: 600px;
-	padding: 1em;
-	@include mq(large) {
-		max-width: 1000px;
-	}
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 600px;
+    padding: 1em;
+    @include mq(large) {
+        max-width: 1000px;
+    }
 
-	img {
-		width: 100%;
-		max-width: 600px;
+    &.coming-soon {
+        margin-top: 40px;
+        max-width: 500px;
+    }
 
-		@include mq(large) {
-			max-width: 1000px;
-		}
-	}
+    img {
+        width: 100%;
+        max-width: 600px;
+
+        @include mq(large) {
+            max-width: 1000px;
+        }
+    }
 }
