@@ -1,0 +1,470 @@
+{
+    "work": [
+        {
+            "name": "usnavalinstitute1",
+            "tag": "usnavalinstitute",
+            "thumb_src": "thumb_usn1.png",
+            "thumb_alt": "U.S. Naval Institute",
+            "full_src": "full_usn1.jpg",
+            "full_alt": "U.S. Naval Institute, conference campaign",
+            "orientation": "landscape",
+            "title": "U.S. NAVAL INSTITUTE",
+            "subtitle": "<p>Conference campaign</p>"
+        },
+        {
+            "name": "friendscancerresearch1",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr1.png",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr1.jpg",
+            "full_alt": "Friends of cancer research, annual report",
+            "title": "FRIENDS OF CANCER RESEARCH",
+            "subtitle": "<p>Annual report</p>"
+        },
+        {
+            "name": "usnavalinstitute2",
+            "tag": "usnavalinstitute",
+            "thumb_src": "thumb_usn2.png",
+            "thumb_alt": "U.S. Naval Institute",
+            "full_src": "full_usn2.jpg",
+            "full_alt": "U.S. Naval Institute, conference campaign",
+            "title": "U.S. NAVAL INSTITUTE",
+            "subtitle": "<p>Conference campaign</p>"
+        },
+        {
+            "name": "ctti",
+            "tag": "ctti",
+            "thumb_src": "thumb_ctti1.jpg",
+            "thumb_alt": "clinical trials transormation initiative",
+            "full_src": "full_ctti1.jpg",
+            "full_alt": "clinical trials transormation initiative, ten year anniversary campaign",
+            "title": "CLINICAL TRIALS TRANSFORMATION INITIATIVE (CTTI)",
+            "subtitle": "<p>Ten year anniversary campaign</p>"
+        },
+        {
+            "name": "snpm1",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm1.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm1.jpg",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>2010 Calendar</p>"
+        },
+        {
+            "name": "fadingportraits2",
+            "tag": "fadingPortraits",
+            "thumb_src": "thumb_fp2.png",
+            "thumb_alt": "fading portraits poster",
+            "full_src": "full_fp2.jpg",
+            "full_alt": "Fading Portraits, Documentary film identity, Oversized promotional poster",
+            "title": "FADING PORTRAITS",
+            "subtitle": "<p>Documentary film identity</p><p>Oversized promotional poster</p>"
+        },
+        {
+            "name": "besurgerywise",
+            "tag": "besurgerywise",
+            "thumb_src": "thumb_bsw1.jpg",
+            "thumb_alt": "be surgery wise",
+            "full_src": "full_bsw1.jpg",
+            "full_alt": "be surgery wise, logo, brand + promotional campaign",
+            "title": "BE SURGERY WISE",
+            "subtitle": "<p>Logo, brand + promotional campaign</p>"
+        },
+        {
+            "name": "nasw1",
+            "tag": "nasw",
+            "thumb_src": "thumb_nasw1.png",
+            "thumb_alt": "national association of social workers (NASW)",
+            "full_src": "full_nasw1.jpg",
+            "full_alt": "national association of social workers (NASW), book cover",
+            "title": "NATIONAL ASSOCIATION OF SOCIAL WORKERS (NASW)",
+            "subtitle": "<p>Book cover</p>"
+        },
+        {
+            "name": "mra1",
+            "tag": "mra",
+            "thumb_src": "thumb_mra1.png",
+            "thumb_alt": "melanoma research alliance (mra)",
+            "full_src": "full_mra1.jpg",
+            "full_alt": "melanoma research alliance (mra), Annual Scientific Retreat publication",
+            "title": "MELANOMA RESEARCH ALLIANCE (MRA)",
+            "subtitle": "<p>Annual Scientific Retreat publication</p>"
+        },
+        {
+            "name": "friendscancerresearch2",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr2.png",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr2.jpg",
+            "full_alt": "Friends of cancer research, annual report",
+            "orientation": "landscape",
+            "title": "FRIENDS OF CANCER RESEARCH",
+            "subtitle": "<p>Annual report</p>"
+        },
+        {
+            "name": "nasw2",
+            "tag": "nasw",
+            "thumb_src": "thumb_nasw2.png",
+            "thumb_alt": "national association of social workers (NASW)",
+            "full_src": "full_nasw2.jpg",
+            "full_alt": "national association of social workers (NASW), book cover",
+            "title": "NATIONAL ASSOCIATION OF SOCIAL WORKERS (NASW)",
+            "subtitle": "<p>Book cover</p>"
+        },
+        {
+            "name": "usnavalinstitute3",
+            "tag": "usnavalinstitute",
+            "thumb_src": "thumb_usn3.png",
+            "thumb_alt": "U.S. Naval Institute",
+            "full_src": "full_usn3.jpg",
+            "full_alt": "U.S. Naval Institute, conference campaign",
+            "title": "U.S. NAVAL INSTITUTE",
+            "subtitle": "<p>Conference campaign</p>"
+        },
+        {
+            "name": "togetheralone",
+            "tag": "togetheralone",
+            "thumb_src": "thumb_ta1.png",
+            "thumb_alt": "together alone",
+            "full_src": "full_ta1.jpg",
+            "full_alt": "together alone, Documentary film identity + poster",
+            "title": "TOGETHER ALONE",
+            "subtitle": "<p>Documentary film identity + poster</p>"
+        },
+        {
+            "name": "fadingportraits3",
+            "tag": "fadingPortraits",
+            "thumb_src": "thumb_fp3.png",
+            "thumb_alt": "fading portraits",
+            "full_src": "full_fp3.jpg",
+            "full_alt": "Fading Portraits, Documentary film identity + poster",
+            "title": "FADING PORTRAITS",
+            "subtitle": "Documentary film identity + poster</p>"
+        },
+        {
+            "name": "fastercures1",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc1.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc1.jpg",
+            "full_alt": "fastercures, Promotional campaign pocket folder",
+            "orientation": "landscape",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Promotional campaign pocket folder</p>"
+        },
+        {
+            "name": "snpm2",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm2.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm2.jpg",
+            "full_alt": "Smithsonian national postal museum, 2010 calendar",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>2010 Calendar</p>"
+        },
+        {
+            "name": "thevurge",
+            "tag": "thevurge",
+            "thumb_src": "thumb_tv1.jpg",
+            "thumb_alt": "the vurge",
+            "full_src": "full_tv1.jpg",
+            "full_alt": "the vurge, logo",
+            "title": "THE VURGE",
+            "subtitle": "<p>Logo</p>"
+        },
+        {
+            "name": "fadingportraits1",
+            "tag": "fadingPortraits",
+            "thumb_src": "thumb_fp1.png",
+            "thumb_alt": "fading portraits",
+            "full_src": "full_fp1.jpg",
+            "full_alt": "Fading Portraits, Documentary film identity, Promotional 4-panel CD soundtrack",
+            "orientation": "landscape",
+            "title": "FADING PORTRAITS",
+            "subtitle": "<p>Documentary film identity</p><p>Promotional 4-panel CD soundtrack</p>"
+        },
+        {
+            "name": "fastercures2",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc2.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc2.jpg",
+            "full_alt": "fastercures, Advocacy publication",
+            "orientation": "landscape",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Advocacy publication</p>"
+        },
+        {
+            "name": "snpm3",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm3.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm3.jpg",
+            "full_alt": "Smithsonian national postal museum, Promotional campaign",
+            "orientation": "landscape",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>Promotional campaign</p>"
+        },
+        {
+            "name": "snpm5",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm5.jpg",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm5.jpg",
+            "full_alt": "Smithsonian national postal museum, Promotional campaign",
+            "orientation": "landscape",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>Promotional campaign</p>"
+        },
+        {
+            "name": "fastercures3",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc3.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc3.jpg",
+            "full_alt": "fastercures, Promotional publication + folder, Campaign infographics",
+            "orientation": "landscape",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Promotional publication + folder</p><p>Campaign infographics</p>"
+        },
+        {
+            "name": "mra2",
+            "tag": "mra",
+            "thumb_src": "thumb_mra2.png",
+            "thumb_alt": "melanoma research alliance (mra)",
+            "full_src": "full_mra2.jpg",
+            "full_alt": "melanoma research alliance (mra), Tenth Anniversary logo",
+            "title": "MELANOMA RESEARCH ALLIANCE (MRA)",
+            "subtitle": "<p>Tenth Anniversary logo</p>"
+        },
+        {
+            "name": "optimalnetworks",
+            "tag": "optimalnetworks",
+            "thumb_src": "thumb_on1.png",
+            "thumb_alt": "optimal networks",
+            "full_src": "full_on1.jpg",
+            "full_alt": "optimal networks, Floating entryway art piece, glass + steel",
+            "title": "OPTIMAL NETWORKS",
+            "subtitle": "<p>Floating entryway art piece</p><p>Glass + steel</p>"
+        },
+        {
+            "name": "usnavalinstitute4",
+            "tag": "usnavalinstitute",
+            "thumb_src": "thumb_usn4.png",
+            "thumb_alt": "U.S. Naval Institute",
+            "full_src": "full_usn1.jpg",
+            "full_alt": "U.S. Naval Institute, conference campaign",
+            "orientation": "landscape",
+            "title": "U.S. NAVAL INSTITUTE",
+            "subtitle": "<p>Conference campaign</p>"
+        },
+        {
+            "name": "snpm7",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm7.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm7.jpg",
+            "full_alt": "Smithsonian national postal museum, Campaign logo + brochure",
+            "orientation": "landscape",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>Campaign logo + brochure</p>"
+        },
+        {
+            "name": "fastercures4",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc4.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc4.jpg",
+            "full_alt": "fastercures, Fundraising campaign",
+            "orientation": "landscape",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Fundraising campaign</p>"
+        },
+        {
+            "name": "heinanlanda",
+            "tag": "heinanlanda",
+            "thumb_src": "thumb_hl1.png",
+            "thumb_alt": "heinan landa",
+            "full_src": "full_hl1.jpg",
+            "full_alt": "heinan landa, Book + podcast",
+            "title": "OPTIMAL NETWORKS",
+            "subtitle": "<p>Book + podcast</p>"
+        },
+        {
+            "name": "campdialecttech",
+            "tag": "campdialecttech",
+            "thumb_src": "thumb_cdt1.png",
+            "thumb_alt": "camp dialect tech",
+            "full_src": "full_cdt1.jpg",
+            "full_alt": "camp dialect tech, Logo",
+            "title": "CAMP DIALECT TECH",
+            "subtitle": "<p>Logo</p>"
+        },
+        {
+            "name": "fadingportraits4",
+            "tag": "fadingPortraits",
+            "thumb_src": "thumb_fp4.jpg",
+            "thumb_alt": "fading portraits",
+            "full_src": "full_fp4.jpg",
+            "full_alt": "Fading Portraits, Documentary film identity + titles",
+            "title": "FADING PORTRAITS",
+            "subtitle": "Documentary film identity + titles</p>"
+        },
+        {
+            "name": "nasw3",
+            "tag": "nasw",
+            "thumb_src": "thumb_nasw3.png",
+            "thumb_alt": "national association of social workers (NASW)",
+            "full_src": "full_nasw3.jpg",
+            "full_alt": "national association of social workers (NASW), book cover",
+            "title": "NATIONAL ASSOCIATION OF SOCIAL WORKERS (NASW)",
+            "subtitle": "<p>Book cover</p>"
+        },
+        {
+            "name": "mecfs",
+            "tag": "mecfs",
+            "thumb_src": "thumb_mecfs1.png",
+            "thumb_alt": "ME/CFS ME/CFS Initiative",
+            "full_src": "full_mecfs1.jpg",
+            "full_alt": "ME/CFS ME/CFS Initiative, Conference presentation",
+            "title": "ME/CFS INITIATIVE",
+            "subtitle": "<p>Conference presentation</p>"
+        },
+        {
+            "name": "snpm6",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm6.jpg",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm5.jpg",
+            "full_alt": "Smithsonian national postal museum, Promotional campaign",
+            "orientation": "landscape",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>Promotional campaign</p>"
+        },
+        {
+            "name": "friendscancerresearch3",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr3.png",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr2.jpg",
+            "full_alt": "Friends of cancer research, annual report",
+            "orientation": "landscape",
+            "title": "FRIENDS OF CANCER RESEARCH",
+            "subtitle": "<p>Annual report</p>"
+        },
+        {
+            "name": "friendscancerresearch4",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr4.png",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr4.jpg",
+            "full_alt": "Friends of cancer research, Annual scientific report",
+            "title": "FRIENDS OF CANCER RESEARCH",
+            "subtitle": "<p>Annual scientific report</p>"
+        },
+        {
+            "name": "milkeninstitute",
+            "tag": "milkeninstitute",
+            "thumb_src": "thumb_mi1.png",
+            "thumb_alt": "milken institute",
+            "full_src": "full_mi1.jpg",
+            "full_alt": "milken institute, Global Gourmet Games conference event Invitation package",
+            "orientation": "landscape",
+            "title": "MILKEN INSTITUTE",
+            "subtitle": "<p>Global Gourmet Games conference event</p><p>Invitation package</p>"
+        },
+        {
+            "name": "mra3",
+            "tag": "mra",
+            "thumb_src": "thumb_mra3.png",
+            "thumb_alt": "melanoma research alliance (mra)",
+            "full_src": "full_mra3.jpg",
+            "full_alt": "melanoma research alliance (mra), Promotional brochure",
+            "orientation": "landscape",
+            "title": "MELANOMA RESEARCH ALLIANCE (MRA)",
+            "subtitle": "<p>Promotional brochure</p>"
+        },
+        {
+            "name": "fastercures5",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc5.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc5.jpg",
+            "full_alt": "fastercures, Conference presentation",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Conference presentation</p>"
+        },
+        {
+            "name": "nachri",
+            "tag": "nachri",
+            "thumb_src": "thumb_nachri1.png",
+            "thumb_alt": "national association of children's hospitals and related institution (NACHRI)",
+            "full_src": "full_nachri1.jpg",
+            "full_alt": "national association of children's hospitals and related institution (NACHRI), Conference publication",
+            "title": "NATIONAL ASSOCIATION OF CHILDREN’S HOSPITALS AND RELATED INSTITUTIONS (NACHRI)",
+            "subtitle": "<p>Conference publication</p>"
+        },
+        {
+            "name": "m2",
+            "tag": "m2",
+            "thumb_src": "thumb_m2.png",
+            "thumb_alt": "M2 real estate",
+            "full_src": "full_m2.jpg",
+            "full_alt": "M2 real estate, Logo",
+            "title": "M2 REAL ESTATE",
+            "subtitle": "<p>Logo</p>"
+        },
+        {
+            "name": "nemos",
+            "tag": "nemos",
+            "thumb_src": "thumb_tn1.png",
+            "thumb_alt": "the nemos",
+            "full_src": "full_tn1.jpg",
+            "full_alt": "the nemos, Anniversary logo",
+            "title": "THE NEMOS",
+            "subtitle": "<p>Anniversary logo</p>"
+        },
+        {
+            "name": "fastercures6",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc6.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc6.jpg",
+            "full_alt": "fastercures, Advocacy publication",
+            "orientation": "landscape",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Advocacy publication</p>"
+        },
+        {
+            "name": "ch",
+            "tag": "ch",
+            "thumb_src": "thumb_ch1.png",
+            "thumb_alt": "childrens hospital",
+            "full_src": "full_ch1.jpg",
+            "full_alt": "childrens hospital, Conference catalogue",
+            "title": "CHILDRENS HOSPITAL",
+            "subtitle": "<p>Conference catalogue</p>"
+        },
+        {
+            "name": "nasw4",
+            "tag": "nasw",
+            "thumb_src": "thumb_nasw4.png",
+            "thumb_alt": "national association of social workers (NASW)",
+            "full_src": "full_nasw4.jpg",
+            "full_alt": "national association of social workers (NASW), book cover",
+            "title": "NATIONAL ASSOCIATION OF SOCIAL WORKERS (NASW)",
+            "subtitle": "<p>Book cover</p>"
+        },
+        {
+            "name": "snpm4",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm4.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm3.jpg",
+            "full_alt": "Smithsonian national postal museum, Promotional campaign",
+            "orientation": "landscape",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>Promotional campaign</p>"
+        }
+    ]
+}
