@@ -287,7 +287,7 @@
             "thumb_alt": "heinan landa",
             "full_src": "full_hl1.jpg",
             "full_alt": "heinan landa, Book + podcast",
-            "title": "OPTIMAL NETWORKS",
+            "title": "HEINAN LANDA",
             "subtitle": "<p>Book + podcast</p>"
         },
         {
@@ -465,6 +465,57 @@
             "orientation": "landscape",
             "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
             "subtitle": "<p>Promotional campaign</p>"
+        },
+        {
+            "name": "mra4",
+            "tag": "mra",
+            "thumb_src": "thumb_mra4.png",
+            "thumb_alt": "melanoma research alliance (mra)",
+            "full_src": "full_mra4.jpg",
+            "full_alt": "Promotional campaign infographics",
+            "orientation": "landscape",
+            "title": "MELANOMA RESEARCH ALLIANCE (MRA)",
+            "subtitle": "<p>Promotional campaign infographics</p>"
+        },
+        {
+            "name": "fastercures7",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc7.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc7.jpg",
+            "full_alt": "magazine article",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Magazine article</p>"
+        },
+        {
+            "name": "aspb1",
+            "tag": "aspb",
+            "thumb_src": "thumb_aspb1.png",
+            "thumb_alt": "american spciety of plant biologists",
+            "full_src": "full_aspb1.jpg",
+            "full_alt": "annual scientific report",
+            "title": "AMERICAN SOCIETY OF PLANT BIOLOGISTS (ASPB)",
+            "subtitle": "<p>Annual scientific report</p>"
+        },
+        {
+            "name": "mirefugio1",
+            "tag": "mirefugio",
+            "thumb_src": "thumb_mr1.png",
+            "thumb_alt": "mi refugio",
+            "full_src": "full_mr1.jpg",
+            "full_alt": "logo",
+            "title": "MI REFUGIO",
+            "subtitle": "<p>Logo</p>"
+        },
+        {
+            "name": "lf1",
+            "tag": "lf",
+            "thumb_src": "thumb_lf1.png",
+            "thumb_alt": "lipedema foundation (LF)",
+            "full_src": "full_lf1.jpg",
+            "full_alt": "logo, brand + poster",
+            "title": "LIPEDEMA FOUNDATION (LF)",
+            "subtitle": "<p>Logo, brand + poster</p>"
         }
     ]
 }
