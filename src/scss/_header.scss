@@ -12,6 +12,7 @@ header {
         text-align: center;
         @include mq(large) {
             justify-content: flex-start;
+            text-align: left;
         }
         a {
             text-decoration: none;
