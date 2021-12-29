@@ -1,17 +1,14 @@
 nav {
     font-family: $font-interface;
     font-weight: 500;
-    font-size: 0.75em;
+    font-size: 0.875em;
     max-width: 440px;
     margin: 0 auto;
     text-transform: uppercase;
-    @include mq(medium) {
-        font-size: 0.875em;
-    }
     @at-root header & {
         margin: 8px 0 0;
         @include mq(large) {
-        margin: 0;
+            margin: 0;
         }
 
         ul {

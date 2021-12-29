@@ -114,7 +114,7 @@ section {
 
 address {
     margin: 2em 0 2em;
-    @include mq(medium) {
+    @include mq(large) {
         margin: 3em 0 2em;
     }
 }
