@@ -54,6 +54,9 @@ function showDetails(item) {
         image.classList.remove('landscape');
     }
 
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+    const portfolioGridEl = document.getElementsByClassName('portfolio')?.[0];
+    portfolioGridEl.classList.add('below')
+
+    setTimeout(() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }, 100);
 }
 

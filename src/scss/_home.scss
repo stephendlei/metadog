@@ -8,6 +8,7 @@
     padding: 1em;
     @include mq(large) {
         max-width: 1000px;
+        padding: 0;
     }
 
     &.coming-soon {

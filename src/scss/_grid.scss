@@ -187,6 +187,17 @@
     justify-content: flex-end;
 }
 
+.justify-center {
+    justify-content: center;
+}
+
+.justify-center-small {
+    justify-content: center;
+    @include mq(large) {
+        justify-content: inherit;
+    }
+}
+
 .grid {
     display: grid;
 }

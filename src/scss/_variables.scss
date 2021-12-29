@@ -4,7 +4,7 @@ $background-color: #ffffff;
 $alt-background-color: #0a2d3e;
 $text-color: #000000;
 $accent-text-color: #cccc00;
-$alt-text-color: #808080;
+$alt-text-color: #b1b1b1;
 $home-nav-text-color: #b3b3b3;
 
 //fonts
@@ -16,43 +16,42 @@ $font-interface: 'Libre Franklin', sans-serif;
 // 0 -xs- 480 -sm- 600 -md- 720 -lg- 960 -xl- 10000
 
 // Extra small screen
-$screen-xs-max:                  480px;
+$screen-xs-max: 480px;
 
 // Small screen
-$screen-sm-max:                  600px;
+$screen-sm-max: 600px;
 
 // Medium screen
-$screen-md-max:                  720px;
+$screen-md-max: 720px;
 
 // Large screen
-$screen-lg-max:                  1024px;
+$screen-lg-max: 1024px;
 
 // X Large screen
-$screen-xl-max:                  1440px;
+$screen-xl-max: 1440px;
 
 // So media queries don't overlap when required, provide a maximum
-$screen-sm-min:              ($screen-xs-max + 1);
-$screen-md-min:              ($screen-sm-max + 1);
-$screen-lg-min:              ($screen-md-max + 1);
-$screen-xl-min:              ($screen-lg-max + 1);
+$screen-sm-min: ($screen-xs-max + 1);
+$screen-md-min: ($screen-sm-max + 1);
+$screen-lg-min: ($screen-md-max + 1);
+$screen-xl-min: ($screen-lg-max + 1);
 
 //conditionals
-$mq-xsmall: "only screen and (max-width: #{$screen-xs-max})";
-$mq-small: "only screen and (min-width: #{$screen-sm-min})";
-$mq-medium: "only screen and (min-width: #{$screen-md-min})";
-$mq-large: "only screen and (min-width: #{$screen-lg-min})";
-$mq-xlarge: "only screen and (min-width: #{$screen-xl-min})";
+$mq-xsmall: 'only screen and (max-width: #{$screen-xs-max})';
+$mq-small: 'only screen and (min-width: #{$screen-sm-min})';
+$mq-medium: 'only screen and (min-width: #{$screen-md-min})';
+$mq-large: 'only screen and (min-width: #{$screen-lg-min})';
+$mq-xlarge: 'only screen and (min-width: #{$screen-xl-min})';
 
-$mq-small-only: "only screen and (min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max})";
-$mq-medium-only: "only screen and (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max})";
-$mq-large-only: "only screen and (min-width: #{$screen-lg-min}) and (max-width: #{$screen-lg-max})";
+$mq-small-only: 'only screen and (min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max})';
+$mq-medium-only: 'only screen and (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max})';
+$mq-large-only: 'only screen and (min-width: #{$screen-lg-min}) and (max-width: #{$screen-lg-max})';
 
 //combination conditionals
-$mq-medium-large: "only screen and (min-width: #{$screen-md-min}) and (max-width: #{$screen-lg-max})";
-$mq-xsmall-medium: "only screen and (max-width: #{$screen-md-max})";
-$mq-xsmall-small: "only screen and (max-width: #{$screen-sm-max})";
+$mq-medium-large: 'only screen and (min-width: #{$screen-md-min}) and (max-width: #{$screen-lg-max})';
+$mq-xsmall-medium: 'only screen and (max-width: #{$screen-md-max})';
+$mq-xsmall-small: 'only screen and (max-width: #{$screen-sm-max})';
 
 //global
 $a-tags: 'a, a:active, a:hover, a:visited';
 $a-tags-hover: 'a:active, a:hover';
- 

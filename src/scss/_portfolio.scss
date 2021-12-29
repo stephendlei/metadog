@@ -1,10 +1,14 @@
 .portfolio {
+    padding-top: 2em;
     grid-template-columns: repeat(2, 1fr);
     @include mq(large) {
         grid-template-columns: repeat(4, 1fr);
     }
     @include mq(xlarge) {
         grid-template-columns: repeat(5, 1fr);
+    }
+    &.below {
+        padding-top: 3em;
     }
     > a {
         img {
@@ -16,6 +20,7 @@
 }
 
 .portfolio-details {
+    padding-top: 2em;
     display: grid;
     @include mq(large) {
         padding: 2em 0 0;
