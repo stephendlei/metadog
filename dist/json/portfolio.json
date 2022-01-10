@@ -18,7 +18,7 @@
             "thumb_alt": "Friends of cancer research",
             "full_src": "full_fcr1.jpg",
             "full_alt": "Friends of cancer research, annual report",
-            "title": "FRIENDS OF CANCER RESEARCH",
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
             "subtitle": "<p>Annual report</p>"
         },
         {
@@ -58,7 +58,7 @@
             "full_src": "full_fp2.jpg",
             "full_alt": "Fading Portraits, Documentary film identity, Oversized promotional poster",
             "title": "FADING PORTRAITS",
-            "subtitle": "<p>Documentary film identity</p><p>Oversized promotional poster</p>"
+            "subtitle": "<p>Film identity + poster</p>"
         },
         {
             "name": "besurgerywise",
@@ -98,7 +98,7 @@
             "full_src": "full_fcr2.jpg",
             "full_alt": "Friends of cancer research, annual report",
             "orientation": "landscape",
-            "title": "FRIENDS OF CANCER RESEARCH",
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
             "subtitle": "<p>Annual report</p>"
         },
         {
@@ -139,7 +139,7 @@
             "full_src": "full_fp3.jpg",
             "full_alt": "Fading Portraits, Documentary film identity + poster",
             "title": "FADING PORTRAITS",
-            "subtitle": "Documentary film identity + poster</p>"
+            "subtitle": "Film identity + poster</p>"
         },
         {
             "name": "fastercures1",
@@ -181,7 +181,7 @@
             "full_alt": "Fading Portraits, Documentary film identity, Promotional 4-panel CD soundtrack",
             "orientation": "landscape",
             "title": "FADING PORTRAITS",
-            "subtitle": "<p>Documentary film identity</p><p>Promotional 4-panel CD soundtrack</p>"
+            "subtitle": "<p>Film identity + Album packaging for Boris Skalsky</p>"
         },
         {
             "name": "fastercures2",
@@ -190,7 +190,6 @@
             "thumb_alt": "fastercures",
             "full_src": "full_fc2.jpg",
             "full_alt": "fastercures, Advocacy publication",
-            "orientation": "landscape",
             "title": "FASTERCURES",
             "subtitle": "<p>Advocacy publication</p>"
         },
@@ -248,15 +247,15 @@
             "subtitle": "<p>Floating entryway art piece</p><p>Glass + steel</p>"
         },
         {
-            "name": "usnavalinstitute4",
-            "tag": "usnavalinstitute",
-            "thumb_src": "thumb_usn4.png",
-            "thumb_alt": "U.S. Naval Institute",
-            "full_src": "full_usn1.jpg",
-            "full_alt": "U.S. Naval Institute, conference campaign",
+            "name": "friendscancerresearch4",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr5.png",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr5.jpg",
+            "full_alt": "Twenty-Fifth Anniversary Logo Invitation Package",
             "orientation": "landscape",
-            "title": "U.S. NAVAL INSTITUTE",
-            "subtitle": "<p>Conference campaign</p>"
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
+            "subtitle": "<p>Twenty-Fifth Anniversary Logo</p><p>Invitation Package</p>"
         },
         {
             "name": "snpm7",
@@ -349,7 +348,7 @@
             "full_src": "full_fcr2.jpg",
             "full_alt": "Friends of cancer research, annual report",
             "orientation": "landscape",
-            "title": "FRIENDS OF CANCER RESEARCH",
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
             "subtitle": "<p>Annual report</p>"
         },
         {
@@ -359,7 +358,7 @@
             "thumb_alt": "Friends of cancer research",
             "full_src": "full_fcr4.jpg",
             "full_alt": "Friends of cancer research, Annual scientific report",
-            "title": "FRIENDS OF CANCER RESEARCH",
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
             "subtitle": "<p>Annual scientific report</p>"
         },
         {
@@ -494,6 +493,7 @@
             "thumb_alt": "american spciety of plant biologists",
             "full_src": "full_aspb1.jpg",
             "full_alt": "annual scientific report",
+            "orientation": "landscape",
             "title": "AMERICAN SOCIETY OF PLANT BIOLOGISTS (ASPB)",
             "subtitle": "<p>Annual scientific report</p>"
         },

@@ -24,7 +24,7 @@
     display: grid;
     @include mq(large) {
         padding: 2em 0 0;
-        grid-template-columns: 1fr 311px;
+        grid-template-columns: 1fr 218px;
         column-gap: 16px;
     }
     .caption {

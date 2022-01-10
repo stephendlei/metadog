@@ -111,10 +111,14 @@ section {
     }
 }
 
+.description p {
+    line-height: 1.75em;
+}
+
 address {
     margin: 2em 0 2em;
     @include mq(large) {
-        margin: 3em 0 2em;
+        margin: 1em 0 2em;
     }
 }
 
@@ -129,14 +133,21 @@ address {
 }
 
 .alt-logo-image {
-    margin: 2em 0 0;
+    margin: 2.5em 0 0;
     padding: 0;
-    max-width: 250px;
     @include mq(medium) {
         max-width: none;
         margin: 2.5em 0 0;
     }
     & img {
         width: 100%;
+        max-width: 200px;
+    }
+}
+
+.show-large-up {
+    display: none;
+    @include mq(large) {
+        display: inherit;
     }
 }
