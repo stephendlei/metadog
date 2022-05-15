@@ -126,6 +126,11 @@ section {
     }
 }
 
+.portfolio-container {
+    max-width: $screen-lg-max;
+    margin: 0 auto;
+}
+
 .hero {
     margin: 3em 0;
     text-align: center;
