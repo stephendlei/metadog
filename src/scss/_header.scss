@@ -1,22 +1,36 @@
 header {
-    padding: 2.5em 1em 1em;
-
+    padding: 11px 6px;
     .logo {
-        font-family: $font-interface;
-        color: $accent-text-color;
-        font-size: 1.125em;
-        font-weight: 700;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        justify-content: center;
-        text-align: center;
-        @include mq(large) {
-            justify-content: flex-start;
-            text-align: left;
+        @include mq(xlarge) {
+            justify-content: space-between;
         }
-        a {
-            text-decoration: none;
-            color: inherit;
+        .logo-image {
+            max-width: 108px;
+            padding: 0 21px;
+            @include mq(xlarge) {
+                max-width: 180px;
+            }
+            img {
+                width: 100%;
+            }
+        }
+        .logo-title {
+            font-family: $font-interface;
+            color: $text-color;
+            font-size: 1.125em;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            justify-content: center;
+            text-align: center;
+            @include mq(large) {
+                justify-content: flex-start;
+                text-align: left;
+            }
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
         }
     }
 
@@ -24,6 +38,10 @@ header {
         justify-content: center;
         @include mq(large) {
             justify-content: flex-end;
+            padding-right: 60px;
+        }
+        @include mq(xlarge) {
+            padding-right: 106px;
         }
     }
 }

@@ -82,47 +82,81 @@ ol,
 ul {
     list-style: none;
 }
+html,
+body {
+    height: 100%;
+}
 
 body {
     background: $background-color;
     margin: 0;
     min-width: 320px;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    max-width: $screen-lg-max;
+    width: 100%;
+    margin: 0 auto;
+}
+section {
+    width: 100%;
+    flex-grow: 1;
+    &.red-background {
+        background: $red;
+        color: white;
+    }
+    &.black-background {
+        background: black;
+        color: white;
+    }
 }
 
-section {
-    padding: 1em;
-}
-
-header,
-section {
+.content-container {
     max-width: $screen-lg-max;
     margin: 0 auto;
+    padding: 0 24px;
+    &.indented {
+        @include mq(large) {
+            padding: 0 60px;
+        }
+        @include mq(xlarge) {
+            padding: 0 106px;
+        }
+    }
 }
 
 .hero {
-    margin: 1em 0 4em;
+    margin: 3em 0;
     text-align: center;
-
-    @include mq(xsmall) {
-        font-size: 0.75em;
+    font-size: 0.375em;
+    @include mq(small) {
+        font-size: 0.625em;
+    }
+    @include mq(medium) {
+        font-size: 0.825em;
     }
     @include mq(large) {
         text-align: left;
+        font-size: 0.9em;
+    }
+    @include mq(xlarge) {
+        font-size: 1.25em;
+    }
+    h2 {
+        line-height: 102%;
     }
 }
 
 .description p {
-    line-height: 1.75em;
-}
-
-address {
-    margin: 2em 0 2em;
-    @include mq(large) {
-        margin: 1em 0 2em;
+    line-height: 1.625em;
+    @include mq(xlarge) {
+        font-size: 1.35em;
     }
 }
 
 .clients {
+    margin-top: 30px;
     li {
         margin: 0.5em 0;
     }
