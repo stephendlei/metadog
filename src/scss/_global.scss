@@ -137,9 +137,9 @@ section {
 .hero {
     margin: 3em 0;
     text-align: center;
-    font-size: 0.375em;
+    font-size: 0.5em;
     @include mq(small) {
-        font-size: 0.625em;
+        font-size: 0.65em;
     }
     @include mq(medium) {
         font-size: 0.825em;
@@ -149,7 +149,7 @@ section {
         font-size: 0.9em;
     }
     @include mq(xlarge) {
-        font-size: 1.25em;
+        font-size: 1.2em;
     }
     h2 {
         line-height: 102%;
