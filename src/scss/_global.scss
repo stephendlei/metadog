@@ -158,8 +158,12 @@ section {
 
 .description p {
     line-height: 1.625em;
+    font-size: 1.125em;
     @include mq(xlarge) {
         font-size: 1.35em;
+    }
+    &.contact {
+        font-size: 1em;
     }
 }
 

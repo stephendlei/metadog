@@ -498,14 +498,15 @@
             "subtitle": "<p>Annual scientific report</p>"
         },
         {
-            "name": "mirefugio1",
-            "tag": "mirefugio",
-            "thumb_src": "thumb_mr1.png",
-            "thumb_alt": "mi refugio",
-            "full_src": "full_mr1.jpg",
+            "name": "has1",
+            "tag": "has",
+            "thumb_src": "thumb_has1.png",
+            "thumb_alt": "Holton-Arms School",
+            "full_src": "full_has1.jpg",
             "full_alt": "logo",
-            "title": "MI REFUGIO",
-            "subtitle": "<p>Logo</p>"
+            "orientation": "landscape",
+            "title": "HOLTON-ARMS SCHOOL",
+            "subtitle": "<p>Faculty Appreciation Day</p>"
         },
         {
             "name": "lf1",
