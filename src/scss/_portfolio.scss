@@ -33,6 +33,7 @@
     .caption {
         text-align: center;
         margin-bottom: 8px;
+        padding: 0 12px;
         @include mq(large) {
             grid-column-end: -1;
             margin-bottom: 0;
@@ -41,12 +42,15 @@
         .title {
             font-size: 1.5em;
             margin-bottom: 0.25em;
-            font-weight: 400;
+            font-weight: 300;
         }
         .subtitle {
             font-size: 1em;
             font-weight: 300;
             line-height: 1em;
+            p {
+                margin: 0;
+            }
         }
     }
     .image {
