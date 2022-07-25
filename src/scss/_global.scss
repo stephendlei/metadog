@@ -106,10 +106,12 @@ section {
     width: 100%;
     flex-grow: 1;
     &.red-background {
+        margin-top: 2em;
         background: $red;
         color: white;
     }
     &.black-background {
+        margin-top: 2em;
         background: black;
         color: white;
     }
@@ -164,6 +166,18 @@ section {
     }
     &.contact {
         margin: 3em 0;
+        span {
+            display: block;
+            margin-top: 4px;
+            @include mq(medium) {
+                display: inline-block;
+                vertical-align: -12px;
+                margin-left: 30px;
+            }
+            img {
+                max-width: 104px;
+            }
+        }
     }
 }
 
