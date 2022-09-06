@@ -22,33 +22,37 @@
             "subtitle": "<p>Annual report</p>"
         },
         {
-            "name": "usnavalinstitute2",
-            "tag": "usnavalinstitute",
-            "thumb_src": "thumb_usn2.png",
-            "thumb_alt": "U.S. Naval Institute",
-            "full_src": "full_usn2.jpg",
-            "full_alt": "U.S. Naval Institute, conference campaign",
-            "title": "U.S. NAVAL INSTITUTE",
-            "subtitle": "<p>Conference campaign</p>"
+            "name": "has1",
+            "tag": "has",
+            "thumb_src": "thumb_has1.png",
+            "thumb_alt": "Holton-Arms School",
+            "full_src": "full_has1.jpg",
+            "full_alt": "logo",
+            "orientation": "landscape",
+            "title": "HOLTON-ARMS SCHOOL",
+            "subtitle": "<p>Faculty Appreciation Day</p>"
         },
         {
-            "name": "ctti",
-            "tag": "ctti",
-            "thumb_src": "thumb_ctti1.jpg",
-            "thumb_alt": "clinical trials transormation initiative",
-            "full_src": "full_ctti1.jpg",
-            "full_alt": "clinical trials transormation initiative, ten year anniversary campaign",
-            "title": "CLINICAL TRIALS TRANSFORMATION INITIATIVE (CTTI)",
-            "subtitle": "<p>Ten year anniversary campaign</p>"
+            "name": "friendscancerresearch6",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr6.jpg",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr6.jpg",
+            "full_alt": "Friends of cancer research, invitation package",
+            "orientation": "landscape",
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
+            "subtitle": "<p>Invitation Package</p>"
         },
         {
-            "name": "snpm1",
+            "name": "snpm4",
             "tag": "snpm",
-            "thumb_src": "thumb_snpm1.png",
+            "thumb_src": "thumb_snpm4.png",
             "thumb_alt": "Smithsonian national postal museum",
-            "full_src": "full_snpm1.jpg",
+            "full_src": "full_snpm3.jpg",
+            "full_alt": "Smithsonian national postal museum, Promotional campaign",
+            "orientation": "landscape",
             "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
-            "subtitle": "<p>2010 Calendar</p>"
+            "subtitle": "<p>Promotional campaign</p><p>Photography: Michelle Repiso</p>"
         },
         {
             "name": "fadingportraits2",
@@ -81,6 +85,16 @@
             "subtitle": "<p>Book cover</p><p>Photography: Michelle Repiso</p>"
         },
         {
+            "name": "ctti",
+            "tag": "ctti",
+            "thumb_src": "thumb_ctti1.jpg",
+            "thumb_alt": "clinical trials transormation initiative",
+            "full_src": "full_ctti1.jpg",
+            "full_alt": "clinical trials transormation initiative, ten year anniversary campaign",
+            "title": "CLINICAL TRIALS TRANSFORMATION INITIATIVE (CTTI)",
+            "subtitle": "<p>Ten year anniversary campaign</p>"
+        },
+        {
             "name": "mra1",
             "tag": "mra",
             "thumb_src": "thumb_mra1.png",
@@ -91,35 +105,26 @@
             "subtitle": "<p>Annual Scientific Retreat publication</p>"
         },
         {
-            "name": "friendscancerresearch2",
-            "tag": "friendscancerresearch",
-            "thumb_src": "thumb_fcr2.png",
-            "thumb_alt": "Friends of cancer research",
-            "full_src": "full_fcr2.jpg",
-            "full_alt": "Friends of cancer research, annual report",
+            "name": "snpm3",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm3.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm3.jpg",
+            "full_alt": "Smithsonian national postal museum, Promotional campaign",
             "orientation": "landscape",
-            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
-            "subtitle": "<p>Annual report</p>"
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>Promotional campaign</p><p>Photography: Michelle Repiso</p>"
         },
         {
-            "name": "nasw2",
-            "tag": "nasw",
-            "thumb_src": "thumb_nasw2.png",
-            "thumb_alt": "national association of social workers (NASW)",
-            "full_src": "full_nasw2.jpg",
-            "full_alt": "national association of social workers (NASW), book cover",
-            "title": "NATIONAL ASSOCIATION OF SOCIAL WORKERS (NASW)",
-            "subtitle": "<p>Book cover</p>"
-        },
-        {
-            "name": "usnavalinstitute3",
-            "tag": "usnavalinstitute",
-            "thumb_src": "thumb_usn3.png",
-            "thumb_alt": "U.S. Naval Institute",
-            "full_src": "full_usn3.jpg",
-            "full_alt": "U.S. Naval Institute, conference campaign",
-            "title": "U.S. NAVAL INSTITUTE",
-            "subtitle": "<p>Conference campaign</p>"
+            "name": "fastercures1",
+            "tag": "fastercures",
+            "thumb_src": "thumb_fc1.png",
+            "thumb_alt": "fastercures",
+            "full_src": "full_fc1.jpg",
+            "full_alt": "fastercures, Promotional campaign pocket folder",
+            "orientation": "landscape",
+            "title": "FASTERCURES",
+            "subtitle": "<p>Promotional campaign pocket folder</p>"
         },
         {
             "name": "togetheralone",
@@ -132,25 +137,25 @@
             "subtitle": "<p>Documentary film identity + poster</p>"
         },
         {
-            "name": "fadingportraits3",
-            "tag": "fadingPortraits",
-            "thumb_src": "thumb_fp3.png",
-            "thumb_alt": "fading portraits",
-            "full_src": "full_fp3.jpg",
-            "full_alt": "Fading Portraits, Documentary film identity + poster",
-            "title": "FADING PORTRAITS",
-            "subtitle": "Film identity + poster</p>"
+            "name": "deadheartbloom",
+            "tag": "deadheartbloom",
+            "thumb_src": "thumb_dhb1.jpg",
+            "thumb_alt": "dead heart bloom",
+            "full_src": "full_dhb1.jpg",
+            "full_alt": "Dead Heart Bloom, vinyl record and sleeve, Photography by Michelle Repiso",
+            "title": "DEAD HEART BLOOM",
+            "subtitle": "<p>Vinyl record + sleeve</p><p>Photography: Michelle Repiso</p>"
         },
         {
-            "name": "fastercures1",
-            "tag": "fastercures",
-            "thumb_src": "thumb_fc1.png",
-            "thumb_alt": "fastercures",
-            "full_src": "full_fc1.jpg",
-            "full_alt": "fastercures, Promotional campaign pocket folder",
+            "name": "friendscancerresearch2",
+            "tag": "friendscancerresearch",
+            "thumb_src": "thumb_fcr2.png",
+            "thumb_alt": "Friends of cancer research",
+            "full_src": "full_fcr2.jpg",
+            "full_alt": "Friends of cancer research, annual report",
             "orientation": "landscape",
-            "title": "FASTERCURES",
-            "subtitle": "<p>Promotional campaign pocket folder</p>"
+            "title": "FRIENDS OF CANCER RESEARCH (<em>FRIENDS</em>)",
+            "subtitle": "<p>Annual report</p>"
         },
         {
             "name": "snpm2",
@@ -173,15 +178,14 @@
             "subtitle": "<p>Logo</p>"
         },
         {
-            "name": "fadingportraits1",
-            "tag": "fadingPortraits",
-            "thumb_src": "thumb_fp1.png",
-            "thumb_alt": "fading portraits",
-            "full_src": "full_fp1.jpg",
-            "full_alt": "Fading Portraits, Documentary film identity, Promotional 4-panel CD soundtrack",
-            "orientation": "landscape",
-            "title": "FADING PORTRAITS",
-            "subtitle": "<p>Film identity + Album packaging for Boris Skalsky</p><p>Photography: Maryam Zandi</p>"
+            "name": "usnavalinstitute2",
+            "tag": "usnavalinstitute",
+            "thumb_src": "thumb_usn2.png",
+            "thumb_alt": "U.S. Naval Institute",
+            "full_src": "full_usn2.jpg",
+            "full_alt": "U.S. Naval Institute, conference campaign",
+            "title": "U.S. NAVAL INSTITUTE",
+            "subtitle": "<p>Conference campaign</p>"
         },
         {
             "name": "fastercures2",
@@ -194,15 +198,15 @@
             "subtitle": "<p>Advocacy publication</p>"
         },
         {
-            "name": "snpm3",
-            "tag": "snpm",
-            "thumb_src": "thumb_snpm3.png",
-            "thumb_alt": "Smithsonian national postal museum",
-            "full_src": "full_snpm3.jpg",
-            "full_alt": "Smithsonian national postal museum, Promotional campaign",
+            "name": "fadingportraits1",
+            "tag": "fadingPortraits",
+            "thumb_src": "thumb_fp1.png",
+            "thumb_alt": "fading portraits",
+            "full_src": "full_fp1.jpg",
+            "full_alt": "Fading Portraits, Documentary film identity, Promotional 4-panel CD soundtrack",
             "orientation": "landscape",
-            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
-            "subtitle": "<p>Promotional campaign</p><p>Photography: Michelle Repiso</p>"
+            "title": "FADING PORTRAITS",
+            "subtitle": "<p>Film identity + Album packaging for Boris Skalsky</p><p>Photography: Maryam Zandi</p>"
         },
         {
             "name": "snpm5",
@@ -394,14 +398,13 @@
             "subtitle": "<p>Conference presentation</p>"
         },
         {
-            "name": "nachri",
-            "tag": "nachri",
-            "thumb_src": "thumb_nachri1.png",
-            "thumb_alt": "national association of children's hospitals and related institution (NACHRI)",
-            "full_src": "full_nachri1.jpg",
-            "full_alt": "national association of children's hospitals and related institution (NACHRI), Conference publication",
-            "title": "NATIONAL ASSOCIATION OF CHILDREN’S HOSPITALS AND RELATED INSTITUTIONS (NACHRI)",
-            "subtitle": "<p>Conference publication</p>"
+            "name": "snpm1",
+            "tag": "snpm",
+            "thumb_src": "thumb_snpm1.png",
+            "thumb_alt": "Smithsonian national postal museum",
+            "full_src": "full_snpm1.jpg",
+            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
+            "subtitle": "<p>2010 Calendar</p>"
         },
         {
             "name": "m2",
@@ -424,6 +427,16 @@
             "subtitle": "<p>Anniversary logo</p>"
         },
         {
+            "name": "nasw2",
+            "tag": "nasw",
+            "thumb_src": "thumb_nasw2.png",
+            "thumb_alt": "national association of social workers (NASW)",
+            "full_src": "full_nasw2.jpg",
+            "full_alt": "national association of social workers (NASW), book cover",
+            "title": "NATIONAL ASSOCIATION OF SOCIAL WORKERS (NASW)",
+            "subtitle": "<p>Book cover</p>"
+        },
+        {
             "name": "fastercures6",
             "tag": "fastercures",
             "thumb_src": "thumb_fc6.png",
@@ -433,16 +446,6 @@
             "orientation": "landscape",
             "title": "FASTERCURES",
             "subtitle": "<p>Advocacy publication</p>"
-        },
-        {
-            "name": "ch",
-            "tag": "ch",
-            "thumb_src": "thumb_ch1.png",
-            "thumb_alt": "childrens hospital",
-            "full_src": "full_ch1.jpg",
-            "full_alt": "childrens hospital, Conference catalogue",
-            "title": "CHILDRENS HOSPITAL",
-            "subtitle": "<p>Conference catalogue</p>"
         },
         {
             "name": "nasw4",
@@ -455,15 +458,14 @@
             "subtitle": "<p>Book cover</p>"
         },
         {
-            "name": "snpm4",
-            "tag": "snpm",
-            "thumb_src": "thumb_snpm4.png",
-            "thumb_alt": "Smithsonian national postal museum",
-            "full_src": "full_snpm3.jpg",
-            "full_alt": "Smithsonian national postal museum, Promotional campaign",
-            "orientation": "landscape",
-            "title": "SMITHSONIAN NATIONAL POSTAL MUSEUM",
-            "subtitle": "<p>Promotional campaign</p><p>Photography: Michelle Repiso</p>"
+            "name": "usnavalinstitute3",
+            "tag": "usnavalinstitute",
+            "thumb_src": "thumb_usn3.png",
+            "thumb_alt": "U.S. Naval Institute",
+            "full_src": "full_usn3.jpg",
+            "full_alt": "U.S. Naval Institute, conference campaign",
+            "title": "U.S. NAVAL INSTITUTE",
+            "subtitle": "<p>Conference campaign</p>"
         },
         {
             "name": "mra4",
@@ -498,15 +500,14 @@
             "subtitle": "<p>Annual scientific report</p>"
         },
         {
-            "name": "has1",
-            "tag": "has",
-            "thumb_src": "thumb_has1.png",
-            "thumb_alt": "Holton-Arms School",
-            "full_src": "full_has1.jpg",
-            "full_alt": "logo",
-            "orientation": "landscape",
-            "title": "HOLTON-ARMS SCHOOL",
-            "subtitle": "<p>Faculty Appreciation Day</p>"
+            "name": "fadingportraits3",
+            "tag": "fadingPortraits",
+            "thumb_src": "thumb_fp3.png",
+            "thumb_alt": "fading portraits",
+            "full_src": "full_fp3.jpg",
+            "full_alt": "Fading Portraits, Documentary film identity + poster",
+            "title": "FADING PORTRAITS",
+            "subtitle": "Film identity + poster</p>"
         },
         {
             "name": "lf1",
